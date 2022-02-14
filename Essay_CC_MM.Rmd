@@ -37,18 +37,20 @@ library(tidyverse)
 
 ## 1. INTRODUCCION
 
+\quad
 La Antartica y el Océano Austral (OA) que lo circunda son componentes activos del clima global. Estos dos elementos también son profundamente influenciados por las muchas variabilidades atmosféricas remotas y regionales en períodos que van desde escalas de tiempo sinópticas a geológicas [@Yuan2004]. En este sentido, la Antártica y el Oceáno Austral asociado han jugado un rol fundamental para entender la dinámica de muchos forzantes ambientales, entre ellos, el hielo marino, y su variabilidad asociada a los distintos fenómenos atmosféricos que influyen en estos procesos. Este ensayo tiene como finalidad identificar y describir las particularidades de los principales fenómenos atmosféricos y como estos influyen en la formación, expansión y contracción de hielo Antártico. A su vez daremos una mirada historica y también como el Cambio Climático (CC) genera desacoples en estos fenómenos atmosféricos, y con ello, sus implicancias en la dinámica propia del hielo marino Antártico. Todo esto con un foco en particular en la Península Antártica (PA). Por último, trataremos de entender como el hielo marino y su ciclos se correlacionan con la dinámica de las poblaciones marinas del krill (*Euphausia superba*), las cuales son la base de los ecosistemas marinos en el Océano Austral. 
 
 \pagebreak
 
 ## 2. DESARROLLO
 
+\quad
 La superficie del océano alrededor de la Antártica se congela en invierno y se derrite cada verano. El hielo marino antártico generalmente alcanza su extensión máxima anual a mediados o finales de septiembre, y alcanza su mínimo anual a finales de febrero o principios de marzo [@Scott2019] (Figura 1). El hielo marino antártico se extiende a unos 12 millones de kilómetros cuadradas en invierno convirtiendola en un continente rodeado por un vasto océano lo cual tiene muchas implicancias en como aquí se manifiestan los procesos climáticos-atmosféricos.
 
 ```{r echo=FALSE, out.width = "70%", fig.align='center', fig.cap= "Extensión del hielo Antártico y su fluctuación intra e interanual (ex. www.climate.gov)"}
 knitr::include_graphics("images/Fig4.png")
 ```
-
+\quad
 El hielo marino puede expandirse libremente a través del Océano Austral en invierno, pero no puede acercarse al Polo Sur de lo que la costa antártica lo permitirá. En promedio, alrededor del 15 por ciento de la cubierta de hielo invernal del Océano Austral, es por ello que la mayor parte del hielo marino de la Antártica tiene solo un invierno como máximo. Como resultado, el hielo marino antártico es relativamente delgado, a menudo de 1 metro o menos. Sin embargo, las nevadas a menudo espesan el hielo marino antártico. La pesada carga de nieve puede deprimir los témpanos de hielo, y el agua de mar puede inundar posteriormente esos témpanos [@Scott2019].
 
 Con respecto al hielo continental, la elevación antártica promedia cerca de 2000 metros (más de 1000 mm. sobre el nivel del mar). Las partes más altas de la capa de hielo, cerca del centro de la Antártida Oriental, rivalizan con la altura de sus montañas más altas, a casi 4000 metros.  Por todas estas características, este océano es una de los áreas más sensibles al CC. Los forzantes claves y su influencia en procesos claves dentro del OA ya han experimentado cambios en sus dinámicas naturales, entre ellos se pueden identificar; la temperatura del océano, la dinámica del hielo marino, la estratificación, las corrientes, entre otros  [@Morley2020; @Sylvester2021].
